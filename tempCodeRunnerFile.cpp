@@ -1,0 +1,1 @@
+sort(obj, obj + n, greater<>());

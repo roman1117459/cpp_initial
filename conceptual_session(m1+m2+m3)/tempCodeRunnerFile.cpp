@@ -1,0 +1,1 @@
+cout << (*per2).age << endl;
